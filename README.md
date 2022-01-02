@@ -1,14 +1,17 @@
-# Getting Started with Create React App
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm install`
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# React Crud Application 🔥
+A web application built with React and Redux interacting with a mock API on https://mockapi.io
 
 
+Star⭐ the repo if you like what you see😉.
+
+## ⛷️Getting Started
+
+### ✨Features
+
+- [x] List pokemon characters
+- [x] Add some characters as favorites
+- [x] Remove characters from favorites
+
+## 🤓 Author
+
+**Damola Olutoke Ezekiel** 
